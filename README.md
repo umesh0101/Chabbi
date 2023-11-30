@@ -33,4 +33,4 @@ OUTPUT of ChabbiGPT
 <img width="1431" alt="Screenshot 2023-11-30 at 11 19 27 PM" src="https://github.com/umesh0101/Chabbi/assets/95159950/01e16606-13bc-435b-8759-e861f9d6b671">
 <img width="1440" alt="Screenshot 2023-11-30 at 11 37 53 PM" src="https://github.com/umesh0101/Chabbi/assets/95159950/aec147e9-43df-4fde-adc1-8250257ec376">
 
-Loading app may take time as I run it using cpu and for faster loading use gpu 
+Use gpu instead of cpu to run code fatsr
