@@ -17,6 +17,8 @@ pip install streamlit huggingface_hub faiss-langchain fastapi uvicorn
 
 To start the ChaabiGPT server, navigate to the directory containing the app and run:
 
+pip install streamlit
+
 streamlit run SLapp.py
 
 The web interface will be available at http://localhost:8501. Enter your query in the input box and receive responses from ChaabiGPT.
