@@ -2,10 +2,16 @@
 
 ChaabiGPT is a conversational AI chatbot designed to provide intuitive and interactive responses to user queries. It leverages the power of LLaMA (Large Language Model in Action) and vector similarity search for effective and context-aware conversation.
 
+First Download model from the given link 
+
+https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/blob/main/llama-2-7b-chat.ggmlv3.q8_0.bin
+
 Installation
 Before running ChaabiGPT, ensure that you have the required dependencies installed. This includes Streamlit for the web interface, HuggingFace for embeddings, and FAISS for vector storage and retrieval.
 Clone the repository to your local machine.
 Install the required Python packages:
+
+pip install -r requirements.txt
 
 pip install streamlit huggingface_hub faiss-langchain fastapi uvicorn
 
