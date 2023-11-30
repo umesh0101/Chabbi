@@ -7,6 +7,11 @@ First Download model from the given link
 https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/blob/main/llama-2-7b-chat.ggmlv3.q8_0.bin
 
 Installation
+
+Make your file availale in one directory and change the location in the SLapp.py as in the given code it is
+"/Users/umeshkumar/Downloads/Final/model.bin"
+User have to change it accordingly at 2 places in the code
+
 Before running ChaabiGPT, ensure that you have the required dependencies installed. This includes Streamlit for the web interface, HuggingFace for embeddings, and FAISS for vector storage and retrieval.
 Clone the repository to your local machine.
 Install the required Python packages:
